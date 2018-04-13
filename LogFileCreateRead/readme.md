@@ -1,0 +1,1 @@
+# How to Create Log file and Read at once
